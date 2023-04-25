@@ -10,9 +10,8 @@ app.use(
   })
 );
 
-app.get("/:category", (req: Request, res: Response) => {
-  const { category } = req.params;
-  const { lastId } = req.query;
+app.get("/products", (req: Request, res: Response) => {
+  const { category, lastId } = req.query;
 
   const fileName = `${category}.json`;
 
