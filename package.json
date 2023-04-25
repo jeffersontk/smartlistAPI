@@ -5,16 +5,14 @@
   "main": "api/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx ts-node-dev api/index.ts",
-    "vercel-build": "node ./build.js"
+    "start": "npx ts-node-dev api/index.ts"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
-    "fs": "^0.0.1-security",
-    "@vercel/node": "^2.12.0"
+    "fs": "^0.0.1-security"
   },
   "devDependencies": {
     "@types/cors": "^2.8.13",
