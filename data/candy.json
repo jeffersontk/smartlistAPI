@@ -1,0 +1,55 @@
+{
+  "id": "l5",
+  "categorie": "Doces",
+  "products": [
+    {
+      "id": "doc1",
+      "name": "Geleia",
+      "checkboxName": "checkGeleia",
+      "inputNamePrice": "priceGeleia",
+      "inputNameQuantity": "qntGeleia"
+    },
+    {
+      "id": "doc2",
+      "name": "Creme de avelã",
+      "checkboxName": "checkCremeAvela",
+      "inputNamePrice": "priceCremeAvela",
+      "inputNameQuantity": "qntCremeAvela"
+    },
+    {
+      "id": "doc3",
+      "name": "Doce de leite",
+      "checkboxName": "checkDoceLeite",
+      "inputNamePrice": "priceDoceLeite",
+      "inputNameQuantity": "qntDoceLeite"
+    },
+    {
+      "id": "doc4",
+      "name": "Goiabada",
+      "checkboxName": "checkGoiabada",
+      "inputNamePrice": "priceGoiabada",
+      "inputNameQuantity": "qntGoiabada"
+    },
+    {
+      "id": "doc5",
+      "name": "Chocolate",
+      "checkboxName": "checkChocolate",
+      "inputNamePrice": "priceChocolate",
+      "inputNameQuantity": "qntChocolate"
+    },
+    {
+      "id": "doc6",
+      "name": "Jujuba",
+      "checkboxName": "checkJujuba",
+      "inputNamePrice": "priceJujuba",
+      "inputNameQuantity": "qntJujuba"
+    },
+    {
+      "id": "doc7",
+      "name": "Paçoca",
+      "checkboxName": "checkPacoca",
+      "inputNamePrice": "pricePacoca",
+      "inputNameQuantity": "qntPacoca"
+    }
+  ]
+}

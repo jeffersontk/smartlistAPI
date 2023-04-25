@@ -1,0 +1,202 @@
+{
+  "id": "l10",
+  "categorie": "Produtos de limpeza",
+  "products": [
+    {
+      "id": "limp1",
+      "name": "Esponja",
+      "checkboxName": "checkEsponja",
+      "inputNamePrice": "priceEsponja",
+      "inputNameQuantity": "qntEsponja"
+    },
+    {
+      "id": "limp2",
+      "name": "Detergente",
+      "checkboxName": "checkDetergente",
+      "inputNamePrice": "priceDetergente",
+      "inputNameQuantity": "qntDetergente"
+    },
+    {
+      "id": "limp3",
+      "name": "Perfex",
+      "checkboxName": "checkPerfex",
+      "inputNamePrice": "pricePerfex",
+      "inputNameQuantity": "qntPerfex"
+    },
+    {
+      "id": "limp4",
+      "name": "Veja",
+      "checkboxName": "checkVeja",
+      "inputNamePrice": "priceVeja",
+      "inputNameQuantity": "qntVeja"
+    },
+    {
+      "id": "limp5",
+      "name": "Desinfetante",
+      "checkboxName": "checkDesinfetante",
+      "inputNamePrice": "priceDesinfetante",
+      "inputNameQuantity": "qntDesinfetante"
+    },
+    {
+      "id": "limp6",
+      "name": "Água sanitária",
+      "checkboxName": "checkAguaSanitária",
+      "inputNamePrice": "priceAguaSanitária",
+      "inputNameQuantity": "qntAguaSanitária"
+    },
+    {
+      "id": "limp7",
+      "name": "Álcool 70°",
+      "checkboxName": "checkAlcool70",
+      "inputNamePrice": "priceAlcool70",
+      "inputNameQuantity": "qntAlcool70"
+    },
+    {
+      "id": "limp8",
+      "name": "Inseticida",
+      "checkboxName": "checkInseticida",
+      "inputNamePrice": "priceInseticida",
+      "inputNameQuantity": "qntInseticida"
+    },
+    {
+      "id": "limp9",
+      "name": "Repelente elétrico",
+      "checkboxName": "checkRepelenteEletrico",
+      "inputNamePrice": "priceRepelenteEletrico",
+      "inputNameQuantity": "qntRepelenteEletrico"
+    },
+    {
+      "id": "limp10",
+      "name": "Esponja de aço",
+      "checkboxName": "checkEsponjaAco",
+      "inputNamePrice": "priceEsponjaAco",
+      "inputNameQuantity": "qntEsponjaAco"
+    },
+    {
+      "id": "limp11",
+      "name": "bicarbonato de sódio",
+      "checkboxName": "checkBicarbonato",
+      "inputNamePrice": "priceBicarbonato",
+      "inputNameQuantity": "qntBicarbonato"
+    },
+    {
+      "id": "limp12",
+      "name": "Bom ar",
+      "checkboxName": "checkBomAr",
+      "inputNamePrice": "priceBomAr",
+      "inputNameQuantity": "qntBomAr"
+    },
+    {
+      "id": "limp13",
+      "name": "Pedra sanitária",
+      "checkboxName": "checkPedraSanitaria",
+      "inputNamePrice": "pricePedraSanitaria",
+      "inputNameQuantity": "qntPedraSanitaria"
+    },
+    {
+      "id": "limp14",
+      "name": "Limpador gel",
+      "checkboxName": "checkLimpadorGel",
+      "inputNamePrice": "priceLimpadorGel",
+      "inputNameQuantity": "qntLimpadorGel"
+    },
+    {
+      "id": "limp15",
+      "name": "Sabão líquido",
+      "checkboxName": "checkSabãoLiquido",
+      "inputNamePrice": "priceSabãoLiquido",
+      "inputNameQuantity": "qntSabãoLiquido"
+    },
+    {
+      "id": "limp16",
+      "name": "Sabão líquido roupa preta",
+      "checkboxName": "checkSabãoLiquidoRoupaPreta",
+      "inputNamePrice": "priceSabãoLiquidoRoupaPreta",
+      "inputNameQuantity": "qntSabãoLiquidoRoupaPreta"
+    },
+    {
+      "id": "limp17",
+      "name": "Amaciante",
+      "checkboxName": "checkAmaciante",
+      "inputNamePrice": "priceAmaciante",
+      "inputNameQuantity": "qntAmaciante"
+    },
+    {
+      "id": "limp18",
+      "name": "Sabão em barra",
+      "checkboxName": "checkSabaoBarra",
+      "inputNamePrice": "priceSabaoBarra",
+      "inputNameQuantity": "qntSabaoBarra"
+    },
+    {
+      "id": "limp19",
+      "name": "Sabão em pó",
+      "checkboxName": "checkSabaoPo",
+      "inputNamePrice": "priceSabaoPo",
+      "inputNameQuantity": "qntSabaoPo"
+    },
+    {
+      "id": "limp20",
+      "name": "Vinagre",
+      "checkboxName": "checkVinagre",
+      "inputNamePrice": "priceVinagre",
+      "inputNameQuantity": "qntVinagre"
+    },
+    {
+      "id": "limp21",
+      "name": "Tira limo com cloro",
+      "checkboxName": "checkTiraLimoCloro",
+      "inputNamePrice": "priceTiraLimoCloro",
+      "inputNameQuantity": "qntTiraLimoCloro"
+    },
+    {
+      "id": "limp22",
+      "name": "Desengordurante",
+      "checkboxName": "checkDesengordurante",
+      "inputNamePrice": "priceDesengordurante",
+      "inputNameQuantity": "qntDesengordurante"
+    },
+    {
+      "id": "limp23",
+      "name": "Vanish",
+      "checkboxName": "checkVanish",
+      "inputNamePrice": "priceVanish",
+      "inputNameQuantity": "qntVanish"
+    },
+    {
+      "id": "limp24",
+      "name": "Vanish roupa branca",
+      "checkboxName": "checkVanishRoupaBranca",
+      "inputNamePrice": "priceVanishRoupaBranca",
+      "inputNameQuantity": "qntVanishRoupaBranca"
+    },
+    {
+      "id": "limp25",
+      "name": "Secar",
+      "checkboxName": "checkSecar",
+      "inputNamePrice": "priceSecar",
+      "inputNameQuantity": "qntSecar"
+    },
+    {
+      "id": "limp26",
+      "name": "Bom Air banheiro",
+      "checkboxName": "checkBomAirBanheiro",
+      "inputNamePrice": "priceBomAirBanheiro",
+      "inputNameQuantity": "qntBomAirBanheiro"
+    },
+    {
+      "id": "limp27",
+      "name": "Saco de lixo 15L",
+      "checkboxName": "checkSacoLixo15L",
+      "inputNamePrice": "priceSacoLixo15L",
+      "inputNameQuantity": "qntSacoLixo15L"
+    },
+    {
+      "id": "limp28",
+      "name": "Saco de lixo 5L",
+      "checkboxName": "checkSacoLixo5L",
+      "inputNamePrice": "priceSacoLixo5L",
+      "inputNameQuantity": "qntSacoLixo5L"
+    }
+  ]
+}

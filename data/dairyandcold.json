@@ -1,0 +1,118 @@
+{
+  "id": "l4",
+  "categorie": "Lacticínios & Frios",
+  "products": [
+    {
+      "id": "lac1",
+      "name": "Leite integral",
+      "checkboxName": "checkLeiteIntegral",
+      "inputNamePrice": "priceLeiteIntegral",
+      "inputNameQuantity": "qntLeiteIntegral"
+    },
+    {
+      "id": "lac2",
+      "name": "Leite desnatado",
+      "checkboxName": "checkLeiteDesnatado",
+      "inputNamePrice": "priceLeiteDesnatado",
+      "inputNameQuantity": "qntLeiteDesnatado"
+    },
+    {
+      "id": "lac3",
+      "name": "Leite semidesnatado",
+      "checkboxName": "checkLeiteSemidesnatado",
+      "inputNamePrice": "priceLeiteSemidesnatado",
+      "inputNameQuantity": "qntLeiteSemidesnatado"
+    },
+    {
+      "id": "lac4",
+      "name": "Queijo mussarela",
+      "checkboxName": "checkQueijoMussarela",
+      "inputNamePrice": "priceQueijoMussarela",
+      "inputNameQuantity": "qntQueijoMussarela"
+    },
+    {
+      "id": "lac5",
+      "name": "Requeijão cremoso",
+      "checkboxName": "checkRequeijãoCremoso",
+      "inputNamePrice": "priceRequeijãoCremoso",
+      "inputNameQuantity": "qntRequeijãoCremoso"
+    },
+    {
+      "id": "lac6",
+      "name": "Manteiga",
+      "checkboxName": "checkManteiga",
+      "inputNamePrice": "priceManteiga",
+      "inputNameQuantity": "qntManteiga"
+    },
+    {
+      "id": "lac7",
+      "name": "Queijo minas",
+      "checkboxName": "checkQueijoMinas",
+      "inputNamePrice": "priceQueijoMinas",
+      "inputNameQuantity": "qntQueijoMinas"
+    },
+    {
+      "id": "lac8",
+      "name": "Queijo parmesão",
+      "checkboxName": "checkQueijoParmesão",
+      "inputNamePrice": "priceQueijoParmesão",
+      "inputNameQuantity": "qntQueijoParmesão"
+    },
+    {
+      "id": "lac9",
+      "name": "Iogurte natural",
+      "checkboxName": "checkIogurteNatural",
+      "inputNamePrice": "priceIogurteNatural",
+      "inputNameQuantity": "qntIogurteNatural"
+    },
+    {
+      "id": "lac10",
+      "name": "Leite fermentado",
+      "checkboxName": "checkLeiteFermentado",
+      "inputNamePrice": "priceLeiteFermentado",
+      "inputNameQuantity": "qntLeiteFermentado"
+    },
+    {
+      "id": "lac11",
+      "name": "Pão de queijo",
+      "checkboxName": "checkPãoQueijo",
+      "inputNamePrice": "pricePãoQueijo",
+      "inputNameQuantity": "qntPãoQueijo"
+    },
+    {
+      "id": "lac12",
+      "name": "Ricota/Creme de ricota",
+      "checkboxName": "checkRicota",
+      "inputNamePrice": "priceRicota",
+      "inputNameQuantity": "qntRicota"
+    },
+    {
+      "id": "lac13",
+      "name": "Presunto",
+      "checkboxName": "checkPresunto",
+      "inputNamePrice": "pricePresunto",
+      "inputNameQuantity": "qntPresunto"
+    },
+    {
+      "id": "lac14",
+      "name": "Peito de peru",
+      "checkboxName": "checkPeitoPeru",
+      "inputNamePrice": "pricePeitoPeru",
+      "inputNameQuantity": "qntPeitoPeru"
+    },
+    {
+      "id": "lac15",
+      "name": "Queijo fatiado",
+      "checkboxName": "checkQueijoFatiado",
+      "inputNamePrice": "priceQueijoFatiado",
+      "inputNameQuantity": "qntQueijoFatiado"
+    },
+    {
+      "id": "lac16",
+      "name": "Margarina",
+      "checkboxName": "checkMargarina",
+      "inputNamePrice": "priceMargarina",
+      "inputNameQuantity": "qntMargarina"
+    }
+  ]
+}

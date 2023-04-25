@@ -1,0 +1,20 @@
+{
+  "id": "l11",
+  "categorie": "Bebê",
+  "products": [
+    {
+      "id": "beb1",
+      "name": "Fralda",
+      "checkboxName": "checkFralda",
+      "inputNamePrice": "priceFralda",
+      "inputNameQuantity": "qntFralda"
+    },
+    {
+      "id": "beb2",
+      "name": "Sabonete de glicerina",
+      "checkboxName": "checkSaboneteGlicerina",
+      "inputNamePrice": "priceSaboneteGlicerina",
+      "inputNameQuantity": "qntSaboneteGlicerina"
+    }
+  ]
+}

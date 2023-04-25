@@ -1,0 +1,433 @@
+{
+  "id": "l1",
+  "categorie": "Mercearia",
+  "products": [
+    {
+      "id": "mer1",
+      "name": "Arroz",
+      "checkboxName": "checkArroz",
+      "inputNamePrice": "priceArroz",
+      "inputNameQuantity": "qntArroz"
+    },
+    {
+      "id": "mer2",
+      "name": "Feijão",
+      "checkboxName": "checkFeijao",
+      "inputNamePrice": "priceFeijao",
+      "inputNameQuantity": "qntFeijao"
+    },
+    {
+      "id": "mer3",
+      "name": "Farinha de mandioca crua",
+      "checkboxName": "checkFarinhaMandioca",
+      "inputNamePrice": "priceFarinhaMandioca",
+      "inputNameQuantity": "qntFarinhaMandioca"
+    },
+    {
+      "id": "mer4",
+      "name": "Lentilha",
+      "checkboxName": "checkLentilha",
+      "inputNamePrice": "priceLentilha",
+      "inputNameQuantity": "qntLentilha"
+    },
+    {
+      "id": "mer5",
+      "name": "Feijão fradinho",
+      "checkboxName": "checkFeijaoFradinho",
+      "inputNamePrice": "priceFeijaoFradinho",
+      "inputNameQuantity": "qntFeijaoFradinho"
+    },
+    {
+      "id": "mer6",
+      "name": "Tapioca",
+      "checkboxName": "checkTapioca",
+      "inputNamePrice": "priceTapioca",
+      "inputNameQuantity": "qntTapioca"
+    },
+    {
+      "id": "mer7",
+      "name": "Milho de pipoca",
+      "checkboxName": "checkMilhoPipoca",
+      "inputNamePrice": "priceMilhoPipoca",
+      "inputNameQuantity": "qntMilhoPipoca"
+    },
+    {
+      "id": "mer8",
+      "name": "Açúcar",
+      "checkboxName": "checkAcucar",
+      "inputNamePrice": "priceAcucar",
+      "inputNameQuantity": "qntAcucar"
+    },
+    {
+      "id": "mer9",
+      "name": "Açúcar mascado",
+      "checkboxName": "checkAcucarMascavo",
+      "inputNamePrice": "priceAcucarMascavo",
+      "inputNameQuantity": "qntAcucarMascavo"
+    },
+    {
+      "id": "mer10",
+      "name": "Sal",
+      "checkboxName": "checkSal",
+      "inputNamePrice": "priceSal",
+      "inputNameQuantity": "qntSal"
+    },
+    {
+      "id": "mer11",
+      "name": "Farinha de trigo",
+      "checkboxName": "checkFarinhaTrigo",
+      "inputNamePrice": "priceFarinhaTrigo",
+      "inputNameQuantity": "qntFarinhaTrigo"
+    },
+    {
+      "id": "mer12",
+      "name": "Fubá",
+      "checkboxName": "checkFuba",
+      "inputNamePrice": "priceFuba",
+      "inputNameQuantity": "qntFuba"
+    },
+    {
+      "id": "mer13",
+      "name": "Milho em flocos (Milharina)",
+      "checkboxName": "checkMilho",
+      "inputNamePrice": "priceMilho",
+      "inputNameQuantity": "qntMilho"
+    },
+    {
+      "id": "mer14",
+      "name": "Suco",
+      "checkboxName": "checkSuco",
+      "inputNamePrice": "priceSuco",
+      "inputNameQuantity": "qntSuco"
+    },
+    {
+      "id": "mer15",
+      "name": "Guaracamp",
+      "checkboxName": "checkGuaracamp",
+      "inputNamePrice": "priceGuaracamp",
+      "inputNameQuantity": "qntGuaracamp"
+    },
+    {
+      "id": "mer16",
+      "name": "Agua com Gás",
+      "checkboxName": "checkAguaGas",
+      "inputNamePrice": "priceAguaGas",
+      "inputNameQuantity": "qntAguaGas"
+    },
+    {
+      "id": "mer17",
+      "name": "Refrigerante",
+      "checkboxName": "checkRefrigerante",
+      "inputNamePrice": "priceRefrigerante",
+      "inputNameQuantity": "qntRefrigerante"
+    },
+    {
+      "id": "mer18",
+      "name": "Erva mate",
+      "checkboxName": "checkErvaMate",
+      "inputNamePrice": "priceErvaMate",
+      "inputNameQuantity": "qntErvaMate"
+    },
+    {
+      "id": "mer19",
+      "name": "Chá",
+      "checkboxName": "checkCha",
+      "inputNamePrice": "priceCha",
+      "inputNameQuantity": "qntCha"
+    },
+    {
+      "id": "mer20",
+      "name": "Massa (Farfale, fusili, penne)",
+      "checkboxName": "checkMassa",
+      "inputNamePrice": "priceMassa",
+      "inputNameQuantity": "qntMassa"
+    },
+    {
+      "id": "mer21",
+      "name": "Espaguete",
+      "checkboxName": "checkEspaguete",
+      "inputNamePrice": "priceEspaguete",
+      "inputNameQuantity": "qntEspaguete"
+    },
+    {
+      "id": "mer22",
+      "name": "Queijo ralado",
+      "checkboxName": "checkQueijoRalado",
+      "inputNamePrice": "priceQueijoRalado",
+      "inputNameQuantity": "qntQueijoRalado"
+    },
+    {
+      "id": "mer23",
+      "name": "Miojo/Cupnoodles",
+      "checkboxName": "checkMiojo",
+      "inputNamePrice": "priceMiojo",
+      "inputNameQuantity": "qntMiojo"
+    },
+    {
+      "id": "mer24",
+      "name": "Adoçante",
+      "checkboxName": "checkAdocante",
+      "inputNamePrice": "priceAdocante",
+      "inputNameQuantity": "qntAdocante"
+    },
+    {
+      "id": "mer25",
+      "name": "Batata palha",
+      "checkboxName": "checkBatataPalha",
+      "inputNamePrice": "priceBatataPalha",
+      "inputNameQuantity": "qntBatataPalha"
+    },
+    {
+      "id": "mer26",
+      "name": "Biscoito recheado",
+      "checkboxName": "checkBiscoitoRecheado",
+      "inputNamePrice": "priceBiscoitoRecheado",
+      "inputNameQuantity": "qntBiscoitoRecheado"
+    },
+    {
+      "id": "mer27",
+      "name": "Rosquinha",
+      "checkboxName": "checkRosquinha",
+      "inputNamePrice": "priceRosquinha",
+      "inputNameQuantity": "qntRosquinha"
+    },
+    {
+      "id": "mer28",
+      "name": "Biscoito de maisena",
+      "checkboxName": "checkBiscoitoMaisena",
+      "inputNamePrice": "priceBiscoitoMaisena",
+      "inputNameQuantity": "qntBiscoitoMaisena"
+    },
+    {
+      "id": "mer29",
+      "name": "Cream cracker",
+      "checkboxName": "checkCreamCracker",
+      "inputNamePrice": "priceCreamCracker",
+      "inputNameQuantity": "qntCreamCracker"
+    },
+    {
+      "id": "mer30",
+      "name": "Vinagre",
+      "checkboxName": "checkVinagre",
+      "inputNamePrice": "priceVinagre",
+      "inputNameQuantity": "qntVinagre"
+    },
+    {
+      "id": "mer31",
+      "name": "Azeite extra virgem",
+      "checkboxName": "checkAzeite",
+      "inputNamePrice": "priceAzeite",
+      "inputNameQuantity": "qntAzeite"
+    },
+    {
+      "id": "mer32",
+      "name": "Óleo",
+      "checkboxName": "checkOleo",
+      "inputNamePrice": "priceOleo",
+      "inputNameQuantity": "qntOleo"
+    },
+    {
+      "id": "mer33",
+      "name": "Extrato de tomate",
+      "checkboxName": "checkTomate",
+      "inputNamePrice": "priceTomate",
+      "inputNameQuantity": "qntTomate"
+    },
+    {
+      "id": "mer34",
+      "name": "Sardinha",
+      "checkboxName": "checkSardinha",
+      "inputNamePrice": "priceSardinha",
+      "inputNameQuantity": "qntSardinha"
+    },
+    {
+      "id": "mer35",
+      "name": "Atum",
+      "checkboxName": "checkAtum",
+      "inputNamePrice": "priceAtum",
+      "inputNameQuantity": "qntAtum"
+    },
+    {
+      "id": "mer36",
+      "name": "Champignon",
+      "checkboxName": "checkChampignon",
+      "inputNamePrice": "priceChampignon",
+      "inputNameQuantity": "qntChampignon"
+    },
+    {
+      "id": "mer37",
+      "name": "Picles",
+      "checkboxName": "checkPicles",
+      "inputNamePrice": "pricePicles",
+      "inputNameQuantity": "qntPicles"
+    },
+    {
+      "id": "mer38",
+      "name": "Palmito",
+      "checkboxName": "checkPalmito",
+      "inputNamePrice": "pricePalmito",
+      "inputNameQuantity": "qntPalmito"
+    },
+    {
+      "id": "mer39",
+      "name": "Azeitona",
+      "checkboxName": "checkAzeitona",
+      "inputNamePrice": "priceAzeitona",
+      "inputNameQuantity": "qntAzeitona"
+    },
+    {
+      "id": "mer40",
+      "name": "Milho",
+      "checkboxName": "checkMilho",
+      "inputNamePrice": "priceMilho",
+      "inputNameQuantity": "qntMilho"
+    },
+    {
+      "id": "mer41",
+      "name": "Ervilha",
+      "checkboxName": "checkErvilha",
+      "inputNamePrice": "priceErvilha",
+      "inputNameQuantity": "qntErvilha"
+    },
+    {
+      "id": "mer42",
+      "name": "Creme de cebola",
+      "checkboxName": "checkCremeCebola",
+      "inputNamePrice": "priceCremeCebola",
+      "inputNameQuantity": "qntCremeCebola"
+    },
+    {
+      "id": "mer43",
+      "name": "Maionese sachê",
+      "checkboxName": "checkMaioneseSache",
+      "inputNamePrice": "priceMaioneseSache",
+      "inputNameQuantity": "qntMaioneseSache"
+    },
+    {
+      "id": "mer44",
+      "name": "Canela",
+      "checkboxName": "checkCanela",
+      "inputNamePrice": "priceCanela",
+      "inputNameQuantity": "qntCanela"
+    },
+    {
+      "id": "mer45",
+      "name": "Amaciante de carne",
+      "checkboxName": "checkAmacianteCarne",
+      "inputNamePrice": "priceAmacianteCarne",
+      "inputNameQuantity": "qntAmacianteCarne"
+    },
+    {
+      "id": "mer46",
+      "name": "Creme de leite",
+      "checkboxName": "checkCremeLeite",
+      "inputNamePrice": "priceCremeLeite",
+      "inputNameQuantity": "qntCremeLeite"
+    },
+    {
+      "id": "mer47",
+      "name": "Gelatina",
+      "checkboxName": "checkGelatina",
+      "inputNamePrice": "priceGelatina",
+      "inputNameQuantity": "qntGelatina"
+    },
+    {
+      "id": "mer48",
+      "name": "Mel",
+      "checkboxName": "checkMel",
+      "inputNamePrice": "priceMel",
+      "inputNameQuantity": "qntMel"
+    },
+    {
+      "id": "mer49",
+      "name": "Aveia",
+      "checkboxName": "checkAveia",
+      "inputNamePrice": "priceAveia",
+      "inputNameQuantity": "qntAveia"
+    },
+    {
+      "id": "mer50",
+      "name": "Sucrilho",
+      "checkboxName": "checkSucrilho",
+      "inputNamePrice": "priceSucrilho",
+      "inputNameQuantity": "qntSucrilho"
+    },
+    {
+      "id": "mer51",
+      "name": "Farinha láctea",
+      "checkboxName": "checkFarinhaLactea",
+      "inputNamePrice": "priceFarinhaLactea",
+      "inputNameQuantity": "qntFarinhaLactea"
+    },
+    {
+      "id": "mer52",
+      "name": "Neston",
+      "checkboxName": "checkNeston",
+      "inputNamePrice": "priceNeston",
+      "inputNameQuantity": "qntNeston"
+    },
+    {
+      "id": "mer53",
+      "name": "Pão de forma",
+      "checkboxName": "checkPaoForma",
+      "inputNamePrice": "pricePaoForma",
+      "inputNameQuantity": "qntPaoForma"
+    },
+    {
+      "id": "mer54",
+      "name": "Torrada",
+      "checkboxName": "checkTorrada",
+      "inputNamePrice": "priceTorrada",
+      "inputNameQuantity": "qntTorrada"
+    },
+    {
+      "id": "mer55",
+      "name": "Achocolatado",
+      "checkboxName": "checkAchocolatado",
+      "inputNamePrice": "priceAchocolatado",
+      "inputNameQuantity": "qntAchocolatado"
+    },
+    {
+      "id": "mer56",
+      "name": "Leite em pó",
+      "checkboxName": "checkLeitePo",
+      "inputNamePrice": "priceLeitePo",
+      "inputNameQuantity": "qntLeitePo"
+    },
+    {
+      "id": "mer57",
+      "name": "Amido de milho",
+      "checkboxName": "checkAmidoMilho",
+      "inputNamePrice": "priceAmidoMilho",
+      "inputNameQuantity": "qntAmidoMilho"
+    },
+    {
+      "id": "mer58",
+      "name": "Massa pronta",
+      "checkboxName": "checkMassaPronta",
+      "inputNamePrice": "priceMassaPronta",
+      "inputNameQuantity": "qntMassaPronta"
+    },
+    {
+      "id": "mer59",
+      "name": "Fermento",
+      "checkboxName": "checkFermento",
+      "inputNamePrice": "priceFermento",
+      "inputNameQuantity": "qntFermento"
+    },
+    {
+      "id": "mer60",
+      "name": "Café",
+      "checkboxName": "checkCafe",
+      "inputNamePrice": "priceCafe",
+      "inputNameQuantity": "qntCafe"
+    },
+    {
+      "id": "mer61",
+      "name": "Café solúvel",
+      "checkboxName": "checkCafeSoluv",
+      "inputNamePrice": "priceCafeSoluv",
+      "inputNameQuantity": "qntCafeSoluv"
+    }
+  ]
+}

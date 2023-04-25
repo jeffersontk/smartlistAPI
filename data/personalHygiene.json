@@ -1,0 +1,139 @@
+{
+  "id": "l9",
+  "categorie": "Higiene pessoal",
+  "products": [
+    {
+      "id": "hig1",
+      "name": "Pasta de dente",
+      "checkboxName": "checkPastaDente",
+      "inputNamePrice": "pricePastaDente",
+      "inputNameQuantity": "qntPastaDente"
+    },
+    {
+      "id": "hig2",
+      "name": "Escova de dentes",
+      "checkboxName": "checkEscovaDentes",
+      "inputNamePrice": "priceEscovaDentes",
+      "inputNameQuantity": "qntEscovaDentes"
+    },
+    {
+      "id": "hig10",
+      "name": "Fio dental",
+      "checkboxName": "checkFioDental",
+      "inputNamePrice": "priceFioDental",
+      "inputNameQuantity": "qntFioDental"
+    },
+    {
+      "id": "hig11",
+      "name": "Shampoo",
+      "checkboxName": "checkShampoo",
+      "inputNamePrice": "priceShampoo",
+      "inputNameQuantity": "qntShampoo"
+    },
+    {
+      "id": "hig12",
+      "name": "Condicionador",
+      "checkboxName": "checkCondicionador",
+      "inputNamePrice": "priceCondicionador",
+      "inputNameQuantity": "qntCondicionador"
+    },
+    {
+      "id": "hig13",
+      "name": "Creme de pentear",
+      "checkboxName": "checkCremePentear",
+      "inputNamePrice": "priceCremePentear",
+      "inputNameQuantity": "qntCremePentear"
+    },
+    {
+      "id": "hig14",
+      "name": "Protetor térmico",
+      "checkboxName": "checkProtetorTermico",
+      "inputNamePrice": "priceProtetorTermico",
+      "inputNameQuantity": "qntProtetorTermico"
+    },
+    {
+      "id": "hig15",
+      "name": "Máscara capilar",
+      "checkboxName": "checkMascaraCapilar",
+      "inputNamePrice": "priceMascaraCapilar",
+      "inputNameQuantity": "qntMascaraCapilar"
+    },
+    {
+      "id": "hig4",
+      "name": "Sabonete",
+      "checkboxName": "checkSabonete",
+      "inputNamePrice": "priceSabonete",
+      "inputNameQuantity": "qntSabonete"
+    },
+    {
+      "id": "hig16",
+      "name": "Sabonete líquido",
+      "checkboxName": "checkSaboneteLiquido",
+      "inputNamePrice": "priceSaboneteLiquido",
+      "inputNameQuantity": "qntSaboneteLiquido"
+    },
+    {
+      "id": "hig17",
+      "name": "Esponja de banho",
+      "checkboxName": "checkEsponjaBanho",
+      "inputNamePrice": "priceEsponjaBanho",
+      "inputNameQuantity": "qntEsponjaBanho"
+    },
+    {
+      "id": "hig18",
+      "name": "Sabonete facial",
+      "checkboxName": "checkSaboneteFacial",
+      "inputNamePrice": "priceSaboneteFacial",
+      "inputNameQuantity": "qntSaboneteFacial"
+    },
+    {
+      "id": "hig19",
+      "name": "Hidratante",
+      "checkboxName": "checkHidratante",
+      "inputNamePrice": "priceHidratante",
+      "inputNameQuantity": "qntHidratante"
+    },
+    {
+      "id": "hig20",
+      "name": "Hidratante facial",
+      "checkboxName": "checkHidratanteFacial",
+      "inputNamePrice": "priceHidratanteFacial",
+      "inputNameQuantity": "qntHidratanteFacial"
+    },
+    {
+      "id": "hig21",
+      "name": "Água micelar",
+      "checkboxName": "checkAguaMicelar",
+      "inputNamePrice": "priceAguaMicelar",
+      "inputNameQuantity": "qntAguaMicelar"
+    },
+    {
+      "id": "hig22",
+      "name": "Disco de algodão",
+      "checkboxName": "checkDiscoAlgodao",
+      "inputNamePrice": "priceDiscoAlgodao",
+      "inputNameQuantity": "qntDiscoAlgodao"
+    },
+    {
+      "id": "hig23",
+      "name": "Bolinha de algodão",
+      "checkboxName": "checkBolinhaAlgodao",
+      "inputNamePrice": "priceBolinhaAlgodao",
+      "inputNameQuantity": "qntBolinhaAlgodao"
+    },
+    {
+      "id": "hig9",
+      "name": "Lenços umedecidos",
+      "checkboxName": "checkLençosUmedecidos",
+      "inputNamePrice": "priceLençosUmedecidos",
+      "inputNameQuantity": "qntLençosUmedecidos"
+    },
+    {
+      "id": "hig24",
+      "name": "Cotonete",
+      "checkboxName": "checkCotonete",
+      "inputNamePrice": "priceCotonete",
+      "inputNameQuantity": "qntCotonete"
+    }
+  ]
+}

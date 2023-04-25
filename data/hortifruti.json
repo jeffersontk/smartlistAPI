@@ -1,0 +1,209 @@
+{
+  "id": "l7",
+  "categorie": "Sacolão",
+  "products": [
+    {
+      "id": "sac1",
+      "name": "Alho",
+      "checkboxName": "checkAlho",
+      "inputNamePrice": "priceAlho",
+      "inputNameQuantity": "qntAlho"
+    },
+    {
+      "id": "sac2",
+      "name": "Cebola",
+      "checkboxName": "checkCebola",
+      "inputNamePrice": "priceCebola",
+      "inputNameQuantity": "qntCebola"
+    },
+    {
+      "id": "sac3",
+      "name": "Cheiro verde",
+      "checkboxName": "checkCheiroVerde",
+      "inputNamePrice": "priceCheiroVerde",
+      "inputNameQuantity": "qntCheiroVerde"
+    },
+    {
+      "id": "sac4",
+      "name": "Coentro",
+      "checkboxName": "checkCoentro",
+      "inputNamePrice": "priceCoentro",
+      "inputNameQuantity": "qntCoentro"
+    },
+    {
+      "id": "sac5",
+      "name": "Alface americana",
+      "checkboxName": "checkAlfaceAmericana",
+      "inputNamePrice": "priceAlfaceAmericana",
+      "inputNameQuantity": "qntAlfaceAmericana"
+    },
+    {
+      "id": "sac6",
+      "name": "Alface crespa",
+      "checkboxName": "checkAlfaceCrespa",
+      "inputNamePrice": "priceAlfaceCrespa",
+      "inputNameQuantity": "qntAlfaceCrespa"
+    },
+    {
+      "id": "sac7",
+      "name": "Tomate cereja",
+      "checkboxName": "checkTomateCereja",
+      "inputNamePrice": "priceTomateCereja",
+      "inputNameQuantity": "qntTomateCereja"
+    },
+    {
+      "id": "sac8",
+      "name": "Tomate",
+      "checkboxName": "checkTomate",
+      "inputNamePrice": "priceTomate",
+      "inputNameQuantity": "qntTomate"
+    },
+    {
+      "id": "sac9",
+      "name": "Couve mineira",
+      "checkboxName": "checkCouveMineira",
+      "inputNamePrice": "priceCouveMineira",
+      "inputNameQuantity": "qntCouveMineira"
+    },
+    {
+      "id": "sac10",
+      "name": "Couve flor",
+      "checkboxName": "checkCouveFlor",
+      "inputNamePrice": "priceCouveFlor",
+      "inputNameQuantity": "qntCouveFlor"
+    },
+    {
+      "id": "sac11",
+      "name": "Repolho",
+      "checkboxName": "checkRepolho",
+      "inputNamePrice": "priceRepolho",
+      "inputNameQuantity": "qntRepolho"
+    },
+    {
+      "id": "sac12",
+      "name": "Brócolis",
+      "checkboxName": "checkBrocolis",
+      "inputNamePrice": "priceBrocolis",
+      "inputNameQuantity": "qntBrocolis"
+    },
+    {
+      "id": "sac13",
+      "name": "Cenoura",
+      "checkboxName": "checkCenoura",
+      "inputNamePrice": "priceCenoura",
+      "inputNameQuantity": "qntCenoura"
+    },
+    {
+      "id": "sac14",
+      "name": "Batata inglesa",
+      "checkboxName": "checkBatataInglesa",
+      "inputNamePrice": "priceBatataInglesa",
+      "inputNameQuantity": "qntBatataInglesa"
+    },
+    {
+      "id": "sac15",
+      "name": "Batata doce",
+      "checkboxName": "checkBatataDoce",
+      "inputNamePrice": "priceBatataDoce",
+      "inputNameQuantity": "qntBatataDoce"
+    },
+    {
+      "id": "sac16",
+      "name": "Batata calabresa",
+      "checkboxName": "checkBatataCalabresa",
+      "inputNamePrice": "priceBatataCalabresa",
+      "inputNameQuantity": "qntBatataCalabresa"
+    },
+    {
+      "id": "sac17",
+      "name": "Batata asterix",
+      "checkboxName": "checkBatataAsterix",
+      "inputNamePrice": "priceBatataAsterix",
+      "inputNameQuantity": "qntBatataAsterix"
+    },
+    {
+      "id": "sac18",
+      "name": "Abobrinha",
+      "checkboxName": "checkAbobrinha",
+      "inputNamePrice": "priceAbobrinha",
+      "inputNameQuantity": "qntAbobrinha"
+    },
+    {
+      "id": "sac19",
+      "name": "Abóbora",
+      "checkboxName": "checkAbóbora",
+      "inputNamePrice": "priceAbóbora",
+      "inputNameQuantity": "qntAbóbora"
+    },
+    {
+      "id": "sac20",
+      "name": "Beringela",
+      "checkboxName": "checkBeringela",
+      "inputNamePrice": "priceBeringela",
+      "inputNameQuantity": "qntBeringela"
+    },
+    {
+      "id": "sac21",
+      "name": "Limão",
+      "checkboxName": "checkLimao",
+      "inputNamePrice": "priceLimao",
+      "inputNameQuantity": "qntLimao"
+    },
+    {
+      "id": "sac22",
+      "name": "Laranja",
+      "checkboxName": "checkLaranja",
+      "inputNamePrice": "priceLaranja",
+      "inputNameQuantity": "qntLaranja"
+    },
+    {
+      "id": "sac23",
+      "name": "Banana",
+      "checkboxName": "checkBanana",
+      "inputNamePrice": "priceBanana",
+      "inputNameQuantity": "qntBanana"
+    },
+    {
+      "id": "sac24",
+      "name": "Mamão",
+      "checkboxName": "checkMamao",
+      "inputNamePrice": "priceMamao",
+      "inputNameQuantity": "qntMamao"
+    },
+    {
+      "id": "sac25",
+      "name": "Maçã",
+      "checkboxName": "checkMaca",
+      "inputNamePrice": "priceMaca",
+      "inputNameQuantity": "qntMaca"
+    },
+    {
+      "id": "sac26",
+      "name": "Kiwi",
+      "checkboxName": "checkKiwi",
+      "inputNamePrice": "priceKiwi",
+      "inputNameQuantity": "qntKiwi"
+    },
+    {
+      "id": "sac27",
+      "name": "Maracujá",
+      "checkboxName": "checkMaracuja",
+      "inputNamePrice": "priceMaracuja",
+      "inputNameQuantity": "qntMaracuja"
+    },
+    {
+      "id": "sac28",
+      "name": "Melão",
+      "checkboxName": "checkMelao",
+      "inputNamePrice": "priceMelao",
+      "inputNameQuantity": "qntMelao"
+    },
+    {
+      "id": "sac29",
+      "name": "Melancia",
+      "checkboxName": "checkMelancia",
+      "inputNamePrice": "priceMelancia",
+      "inputNameQuantity": "qntMelancia"
+    }
+  ]
+}

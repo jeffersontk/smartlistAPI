@@ -1,0 +1,62 @@
+{
+  "id": "l2",
+  "categorie": "Condimentos",
+  "products": [
+    {
+      "id": "con1",
+      "name": "Ketchup",
+      "checkboxName": "checkKetchup",
+      "inputNamePrice": "priceKetchup",
+      "inputNameQuantity": "qntKetchup"
+    },
+    {
+      "id": "con2",
+      "name": "Mostarda",
+      "checkboxName": "checkMostarda",
+      "inputNamePrice": "priceMostarda",
+      "inputNameQuantity": "qntMostarda"
+    },
+    {
+      "id": "con3",
+      "name": "Maionese",
+      "checkboxName": "checkMaionese",
+      "inputNamePrice": "priceMaionese",
+      "inputNameQuantity": "qntMaionese"
+    },
+    {
+      "id": "con4",
+      "name": "Barbecue",
+      "checkboxName": "checkBarbecue",
+      "inputNamePrice": "priceBarbecue",
+      "inputNameQuantity": "qntBarbecue"
+    },
+    {
+      "id": "con5",
+      "name": "Molho para salada",
+      "checkboxName": "checkMolhoSalada",
+      "inputNamePrice": "priceMolhoSalada",
+      "inputNameQuantity": "qntMolhoSalada"
+    },
+    {
+      "id": "con6",
+      "name": "Molho para Hambúrguer",
+      "checkboxName": "checkMolhoHamburguer",
+      "inputNamePrice": "priceMolhoHamburguer",
+      "inputNameQuantity": "qntMolhoHamburguer"
+    },
+    {
+      "id": "con7",
+      "name": "Molho shoyo",
+      "checkboxName": "checkMolhoShoyo",
+      "inputNamePrice": "priceMolhoShoyo",
+      "inputNameQuantity": "qntMolhoShoyo"
+    },
+    {
+      "id": "con8",
+      "name": "Molho Tare",
+      "checkboxName": "checkMolhoTare",
+      "inputNamePrice": "priceMolhoTare",
+      "inputNameQuantity": "qntMolhoTare"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "l6",
+  "categorie": "Congelados",
+  "products": [
+    {
+      "id": "cong1",
+      "name": "Batata frita",
+      "checkboxName": "checkBatataFrita",
+      "inputNamePrice": "priceBatataFrita",
+      "inputNameQuantity": "qntBatataFrita"
+    },
+    {
+      "id": "cong2",
+      "name": "Anéis de cebelo",
+      "checkboxName": "checkAnéisCebelo",
+      "inputNamePrice": "priceAnéisCebelo",
+      "inputNameQuantity": "qntAnéisCebelo"
+    },
+    {
+      "id": "cong3",
+      "name": "Pizza",
+      "checkboxName": "checkPizza",
+      "inputNamePrice": "pricePizza",
+      "inputNameQuantity": "qntPizza"
+    },
+    {
+      "id": "cong4",
+      "name": "Lasanha",
+      "checkboxName": "checkLasanha",
+      "inputNamePrice": "priceLasanha",
+      "inputNameQuantity": "qntLasanha"
+    },
+    {
+      "id": "cong5",
+      "name": "Gnochi",
+      "checkboxName": "checkGnochi",
+      "inputNamePrice": "priceGnochi",
+      "inputNameQuantity": "qntGnochi"
+    },
+    {
+      "id": "cong6",
+      "name": "Massa para pastel",
+      "checkboxName": "checkMassaPastel",
+      "inputNamePrice": "priceMassaPastel",
+      "inputNameQuantity": "qntMassaPastel"
+    }
+  ]
+}
